@@ -4,7 +4,7 @@
 # Updated by Afiniel for Yiimpool use...
 # This script is intended to be run like this:
 #
-# curl https://raw.githubusercontent.com/dfclark90/yiimp_install_script/dev/install.sh | bash
+# curl https://raw.githubusercontent.com/dfclark90/yiimp_install_script/master/install.sh | bash
 #
 #########################################################
 
